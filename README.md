@@ -1,6 +1,7 @@
-## 👋Olá!👋 Me chamo Eduardo Cozer Bernardon!
 
-📚Sou estudante de *Engenharia de Computação* na **PUCRS**!🖥️
+## 👋Olá!👋 Me chamo Eduardo Cozer Bernardon!
+<div align="center">
+📚Sou estudante de *Engenharia de Computação* na **PUCRS**!🖥️</div>
 <div align="center">
 🧠Aprendendo cada vez mais sobre:
 
