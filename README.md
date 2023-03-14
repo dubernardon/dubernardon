@@ -7,7 +7,7 @@
 
   <img align="center" alt="Eduardo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Eduardo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="Eduardo-D3JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"> </div>
   <div align="center">
-🎒Atual bolsista do laboratório Davint da PUCRS. Trabalhando com a biblioteca d3.js em "Desenvolvimento de Modelos de Visualização Narrativa para Apoiar a Comunicação e Análise de Dados Abertos Governamentais"! 🎒</div>
+🎒Antigo bolsista do laboratório Davint da PUCRS no projeto: "Desenvolvimento de Modelos de Visualização Narrativa para Apoiar a Comunicação e Análise de Dados Abertos Governamentais"!  - Alguns projetos são escontrados aqui!🎒</div>
 <div align="center">
 ✏️Curriculo Lattes:http://lattes.cnpq.br/5600122654795176 ✏️</div>
 
