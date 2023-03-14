@@ -9,6 +9,8 @@
   <div align="center">
 🎒Antigo bolsista do laboratório Davint da PUCRS no projeto: "Desenvolvimento de Modelos de Visualização Narrativa para Apoiar a Comunicação e Análise de Dados Abertos Governamentais"!  - Alguns projetos são escontrados aqui!🎒</div>
 <div align="center">
+	<div align="center">
+📚Alguns projetos/trabalhos da minha faculdade estarão disponibilizados aqui!📚</div>
 ✏️Curriculo Lattes:http://lattes.cnpq.br/5600122654795176 ✏️</div>
 
 <div align="center">
