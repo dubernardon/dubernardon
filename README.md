@@ -9,8 +9,7 @@
 🎒Atual bolsista do laboratório LSA da PUCRS no projeto: "Estudo e avaliação de algoritmos de aprendizado de máquina aplicados a barcos robóticos autônomos"!🎒</div>
 <div align="center">
 	<div align="center">
-📚Alguns projetos/trabalhos da minha faculdade são disponibilizados aqui!📚</div>
-✏️Curriculo Lattes:http://lattes.cnpq.br/5600122654795176 ✏️</div>
+📚Alguns projetos/trabalhos pessoais e da minha faculdade são disponibilizados aqui!📚</div>
 
 <div align="center">
   <a href="https://github.com/dubernardon">
