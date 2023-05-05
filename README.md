@@ -3,9 +3,9 @@
 <div align="center">
 📚Sou estudante de Engenharia de Computação na PUCRS!🖥️</div>
 <div align="center">
-🧠Aprendendo cada vez mais sobre:
+/*🧠Aprendendo cada vez mais sobre:
 
-  <img align="center" alt="Eduardo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Eduardo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Eduardo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Eduardo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">*/
   <div align="center">
 🎒Antigo bolsista do laboratório Davint da PUCRS no projeto: "Desenvolvimento de Modelos de Visualização Narrativa para Apoiar a Comunicação e Análise de Dados Abertos Governamentais"!  - Alguns projetos são escontrados aqui!🎒</div>
 <div align="center">
