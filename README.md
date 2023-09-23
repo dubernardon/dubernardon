@@ -1,5 +1,3 @@
-
-## 👋Olá!👋 Me chamo Eduardo Cozer Bernardon!
 <div align="center">
 📚Computer Engineering Student - PUCRS</div>
 <div align="center">
