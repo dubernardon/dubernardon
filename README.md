@@ -10,3 +10,6 @@
 	<div align="center">
 	  - Hardware Acceleration of Encryption Algorithms in Low-Performance Contexts
    </div>
+<div align="center">
+DATACOM - Teracom Intern
+</div>
